@@ -1,1 +1,5 @@
 # Poetolog
+Home of Poetolog, an open-acess online bibliographic repository of the world's poetic traditions. 
+
+## Poetolect
+The units of description in Poetolog. A socio-linguistically defined poetic practice, anchored within an established set of poetic rules and social conventions concerning performance and reception (poetic system). A Poetolect refers to a poetic system described in a specific document. For example, whatever poetic system is contained in a certain description or specific article—or a chapter therein—represents a unique poetolect. Poetolects are associated with unique IDs (*poetocodes*) and represent specific instantiations of a poetic practice. Every poetolect is languoid-specific and encoded in its own terms. We always report the poetolect as emically defined, mediated through the description. In accordance with the use of the term doculect, the use of the term poetolect (s. Glottopedia) is meant to remind researchers of the fact that poetry may show high internal variability.
